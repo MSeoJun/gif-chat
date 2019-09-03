@@ -64,8 +64,3 @@ table, table th, table td {
 
   border-radius:10px;
 }
-
-#bt:hover {
-  background-color: aqua;
-  color: black;
-}
